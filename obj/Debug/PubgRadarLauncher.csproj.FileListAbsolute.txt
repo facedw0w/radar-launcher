@@ -1,0 +1,9 @@
+D:\VS2017COM\Projects\PubgRadarLauncher\PubgRadarLauncher\bin\Debug\PubgRadarLauncher.exe.config
+D:\VS2017COM\Projects\PubgRadarLauncher\PubgRadarLauncher\bin\Debug\PubgRadarLauncher.exe
+D:\VS2017COM\Projects\PubgRadarLauncher\PubgRadarLauncher\bin\Debug\PubgRadarLauncher.pdb
+D:\VS2017COM\Projects\PubgRadarLauncher\PubgRadarLauncher\obj\Debug\PubgRadarLauncher.csprojResolveAssemblyReference.cache
+D:\VS2017COM\Projects\PubgRadarLauncher\PubgRadarLauncher\obj\Debug\PubgRadarLauncher.Properties.Resources.resources
+D:\VS2017COM\Projects\PubgRadarLauncher\PubgRadarLauncher\obj\Debug\PubgRadarLauncher.csproj.GenerateResource.Cache
+D:\VS2017COM\Projects\PubgRadarLauncher\PubgRadarLauncher\obj\Debug\PubgRadarLauncher.exe
+D:\VS2017COM\Projects\PubgRadarLauncher\PubgRadarLauncher\obj\Debug\PubgRadarLauncher.pdb
+D:\VS2017COM\Projects\PubgRadarLauncher\PubgRadarLauncher\obj\Debug\PubgRadarLauncher.MainForm.resources
